@@ -13,7 +13,7 @@ This project is a simple mobile e-commerce shop built using PHP and MySQL. It al
 ## Setup
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/e-commerce-mobile-shop.git
+   git clone https://github.com/haweil/E-commerce-mobile-shop.git
 2. Import the database schema from database/shopee.sql to create the necessary tables.
 3. Update the database connection settings in config/database.php if necessary.
 4. Start the PHP development server:
